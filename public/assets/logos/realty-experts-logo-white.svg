@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" fill="none">
+  <!-- Realty Experts Official Brand Mark (Light / White Version for Dark Surfaces) -->
+  <g id="emblem" transform="translate(10, 10)">
+    <path d="M 0 32 L 50 0 L 50 25 L 32 36 C 30 37 28 38 24 38 L 24 48 L 50 64 L 50 100 L 32 87 L 24 72 L 24 95 L 0 82 Z" fill="#FFFFFF" />
+    <polygon points="12,42 34,28 34,36 12,50" fill="#202020"/>
+    
+    <polygon points="56,3 92,24 92,42 56,23" fill="#A8ABB0"/>
+    <polygon points="56,30 92,49 92,67 56,49" fill="#C2C5CA"/>
+    <polygon points="56,56 92,74 92,92 56,75" fill="#85888C"/>
+  </g>
+
+  <line x1="120" y1="12" x2="120" y2="108" stroke="#85888C" stroke-width="1.75" stroke-linecap="round"/>
+
+  <text x="138" y="58" font-family="Montserrat, Inter, system-ui, -apple-system, sans-serif" font-size="44" font-weight="900" letter-spacing="3.5" fill="#FFFFFF">REALTY</text>
+  <text x="140" y="99" font-family="Montserrat, Inter, system-ui, -apple-system, sans-serif" font-size="37" font-weight="500" letter-spacing="7" fill="#A8ABB0">EXPERTS</text>
+</svg>
